@@ -10,14 +10,17 @@ package controlversiones;
  * @author David
  */
 public class ControlVersiones {
+    
+    float numero1;
+    float numero2;
 
-    public ControlVersiones() {
-        
-        
+    public ControlVersiones(float numero1, float numero2) {
+        this.numero1 = numero1;
+        this.numero2 = numero2;
     }
     
-    public static void main(String[] args) {
-        // TODO code application logic here
+    private float Suma(float num1, float num2){
+        return num1 + num2;
     }
     
 }
