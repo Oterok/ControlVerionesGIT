@@ -35,9 +35,6 @@ public class ControlVersiones {
         return num1 + num2;
     }
     
-    private float fantasma(float num1, float num2){
-       return num1%num2 + num2%num1;
-    }
     
     
 }
