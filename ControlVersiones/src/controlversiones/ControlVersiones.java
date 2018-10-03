@@ -35,5 +35,9 @@ public class ControlVersiones {
         return num1 + num2;
     }
     
+    private void fantasma(){
+        
+    }
+    
     
 }
