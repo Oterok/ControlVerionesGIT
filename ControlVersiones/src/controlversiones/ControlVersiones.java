@@ -27,5 +27,10 @@ public class ControlVersiones {
         return num1 - num2;
     }
     
+    private float Multiplicacion(float num1, float num2){
+        return num1 * num2;
+    }
+    
+    
     
 }
